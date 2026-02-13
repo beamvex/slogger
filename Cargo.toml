@@ -5,6 +5,9 @@ edition = "2024"
 description = "Simple logger for Rust"
 license = "MIT"
 authors = ["Robert Forster <robert.forster@beamvex.com>"]
+homepage = "https://github.com/beamvex/slogger"
+repository = "https://github.com/beamvex/slogger"
+documentation = "https://docs.rs/slogger"
 
 [lib]
 test = true
