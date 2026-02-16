@@ -1,6 +1,6 @@
 [package]
 name = "slogger"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 description = "Simple logger for Rust"
 license = "MIT"
@@ -13,3 +13,4 @@ documentation = "https://docs.rs/slogger"
 test = true
 
 [dependencies]
+chrono = "0.4"
